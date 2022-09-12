@@ -1,0 +1,12 @@
+.hero-title{
+    color: white;
+    font-weight: 700;
+    font-size: 3rem;
+    letter-spacing: 3px;
+}
+
+.hero-image{
+    border-radius: 20%;
+    width: 70px;
+    
+}
